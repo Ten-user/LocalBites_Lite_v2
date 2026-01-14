@@ -57,9 +57,9 @@ const restaurants = [
     color: '#0066CC',
     description: 'Delicious pizzas delivered fast.',
     menu: [
-      { id: 13, item: 'Hawaiian Pizza', price: 8, img: '/menu/domino1.jpg' },
-      { id: 14, item: 'Meat Lovers Pizza', price: 9, img: '/menu/domino2.jpg' },
-      { id: 15, item: 'Cheesy Garlic Bread', price: 4, img: '/menu/domino3.jpg' }
+      { id: 13, item: 'Hawaiian Pizza', price: 25.0, img: '/menu/domino1.jpg' },
+      { id: 14, item: 'Meat Lovers Pizza', price: 55.0, img: '/menu/domino2.jpg' },
+      { id: 15, item: 'Cheesy Garlic Bread', price: 45.0, img: '/menu/domino3.jpg' }
     ]
   },
   {
