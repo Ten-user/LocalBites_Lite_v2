@@ -384,6 +384,18 @@ function App() {
           </div>
         </div>
       )}
+
+      {/* ===== Footer ===== */}
+      <footer style={{
+        marginTop: '30px',
+        padding: '15px 10px',
+        background: '#222',
+        color: '#fff',
+        textAlign: 'center',
+        borderRadius: '12px'
+      }}>
+        &copy; {new Date().getFullYear()} LocalBites Lite. All rights reserved.
+      </footer>
     </div>
   );
 }
